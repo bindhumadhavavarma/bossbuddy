@@ -7,11 +7,12 @@ It is an application with a goal to serve students with their most required soft
 The resume planner completely client side application with dynamic fields to enter the desired data and preview features where the users can preview how their resume will look with multiple formats and templates. The application is
 completely client side which ensures the data entered by the user is fully private.
 ![image](https://user-images.githubusercontent.com/54420831/167462025-0686f4a9-948b-41c7-9614-fdd87746d850.png)
+![image](https://user-images.githubusercontent.com/54420831/167462130-fad70943-3ccd-4638-96c3-d69d82acaf14.png)
+![image](https://user-images.githubusercontent.com/54420831/167463631-8995d20f-1f15-4963-a345-e731d7d213aa.png)
 
 ## To Do Planner
 The to-do planner is a classic scheduling application with all the required features like selecting dates, adding plans, editing and deleting the plans.
 ![image](https://user-images.githubusercontent.com/54420831/167461340-c1e0d5f4-98ba-4049-8128-7c5bb77e00c8.png)
-![image](https://user-images.githubusercontent.com/54420831/167462130-fad70943-3ccd-4638-96c3-d69d82acaf14.png)
 
 ## Chatting Application
 The chatting appliation is a classic communicaton provider with future plans to convert it into a social platform with forums and pages of different interests.
